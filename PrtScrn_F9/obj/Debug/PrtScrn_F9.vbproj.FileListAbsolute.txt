@@ -1,0 +1,30 @@
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\bin\Debug\PrtScrn_F9.exe.config
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\bin\Debug\PrtScrn_F9.exe
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\bin\Debug\PrtScrn_F9.pdb
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\bin\Debug\PrtScrn_F9.xml
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.vbprojResolveAssemblyReference.cache
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.Form1.resources
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.Resources.resources
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.vbproj.GenerateResource.Cache
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.exe
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.xml
+c:\users\lsc98\documents\visual studio 2015\Projects\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.pdb
+C:\Users\lsc98\Documents\git-repository\F9_Screenshot\PrtScrn_F9\PrtScrn_F9\bin\Debug\PrtScrn_F9.exe.config
+C:\Users\lsc98\Documents\git-repository\F9_Screenshot\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.exe
+C:\Users\lsc98\Documents\git-repository\F9_Screenshot\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.xml
+C:\Users\lsc98\Documents\git-repository\F9_Screenshot\PrtScrn_F9\PrtScrn_F9\obj\Debug\PrtScrn_F9.pdb
+C:\Users\lsc98\Documents\git-repository\F9_Screenshot\PrtScrn_F9\bin\Debug\PrtScrn_F9.exe.config
+C:\Users\lsc98\Documents\git-repository\F9_Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.exe
+C:\Users\lsc98\Documents\git-repository\F9_Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.xml
+C:\Users\lsc98\Documents\git-repository\F9_Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.pdb
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\bin\Debug\PrtScrn_F9.exe.config
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.exe
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.xml
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.pdb
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\bin\Debug\PrtScrn_F9.exe
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\bin\Debug\PrtScrn_F9.pdb
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\bin\Debug\PrtScrn_F9.xml
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.vbprojResolveAssemblyReference.cache
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.Form1.resources
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.Resources.resources
+C:\Users\lsc98\Documents\GitHub\F9-Screenshot\PrtScrn_F9\obj\Debug\PrtScrn_F9.vbproj.GenerateResource.Cache
